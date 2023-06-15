@@ -184,3 +184,6 @@ A public list of things we intend to do with HouseWatch in the near future.
 - [ ] Abstraction to load data from API as JSON
 
 </details>
+
+## NOTE:
+Add actions for docker image push
